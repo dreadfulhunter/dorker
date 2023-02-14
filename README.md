@@ -53,3 +53,33 @@ Matched subdomains:
 subdomain1
 subdomain2
 ...
+
+
+## Deployment Guide
+This guide provides the steps to deploy the code on a system.
+
+Requirements
+Go programming language installed on your system
+Steps
+Clone the code repository from Github to your system
+bash
+
+```
+git clone https://github.com/<username>/<repo-name>.git
+```
+Go to the code directory
+bash
+cd <repo-name>
+ 
+Build the code using the Go compiler
+  
+```
+go
+Copy code
+go build
+Run the compiled binary to start the code
+```
+
+ 
+./<repo-name>
+
