@@ -8,12 +8,20 @@ bash
 SEARCH_ENGINE should be one of the following:
 ```
 
+
 google
+
 bing
+
 duck
+
 yandex
+
 yahoo
+
+
 baidu
+
 QUERY is the string to search for.
 
 Example
@@ -22,12 +30,19 @@ bash
 ./search_engine_scraper google "example query"
 ```
 Available Search Engines
+
 Google
+
 Bing
+
 DuckDuckGo
+
 Yandex
+
 Yahoo
+
 Baidu
+
 Output
 The program will output a list of matched subdomains in the format:
 
