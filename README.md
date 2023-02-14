@@ -71,13 +71,17 @@ bash
 ```
 git clone https://github.com/<username>/<repo-name>.git
 ```
+
 Go to the code directory
-bash
+
+```
 cd <repo-name>
+```
  
 Build the code using the Go compiler
   
 ```
+
 go
 Copy code
 go build
