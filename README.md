@@ -25,10 +25,12 @@ baidu
 QUERY is the string to search for.
 
 Example
-bash
+
+
 ```
 ./search_engine_scraper google "example query"
 ```
+
 Available Search Engines
 
 Google
@@ -53,6 +55,8 @@ Matched subdomains:
 subdomain1
 subdomain2
 ...
+
+```
 
 
 ## Deployment Guide
