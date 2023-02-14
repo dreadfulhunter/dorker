@@ -1,7 +1,7 @@
-##Search Engine Scraper
+# Search Engine Scraper
 This is a simple command line tool to scrape subdomains from popular search engines like Google, Bing, DuckDuckGo, Yandex, Yahoo, and Baidu.
 
-Usage
+## Usage
 bash
 ```
 ./search_engine_scraper SEARCH_ENGINE QUERY
