@@ -83,11 +83,9 @@ Build the code using the Go compiler
 ```
 
 go
-Copy code
 go build
 Run the compiled binary to start the code
 ```
 
  
-./<repo-name>
 
